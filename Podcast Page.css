@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-heading {
+    font-size: 20px;
+    padding-top: 15px;
+    color: #151765;
+    font-family: "Roboto";
+    margin-left: 15px;
+}
+
+.home-page-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 400px;
+    width: 1500px;
+    background-size: cover;
+    margin: 15px;
+
+
+
+}
+
+.home-page-heading {
+    color: #ffffff;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 50px;
+}
+
+.details-card {
+    padding: 40px;
+
+    height: 300px;
+}
+
+.home-page-image1 {
+    height: 110px;
+    width: 130px;
+    margin-left: 2px;
+}
+
+.home-page-image2 {
+    height: 110px;
+    width: 130px;
+    margin-left: 20px;
+}
+
+.home-page-image3 {
+    height: 110px;
+    width: 130px;
+    margin-left: 2px;
+}
+
+.home-page-image4 {
+    height: 110px;
+    width: 130px;
+    margin-left: 20px;
+}
+
+.name {
+    color: #151765;
+    padding-left: 60px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.episodes {
+    color: #5a7184;
+    padding-left: 60px;
+
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.first-card {
+    background-color: #151765;
+    margin: 15px;
+}
+
+.card-inside-image {
+    height: 180px;
+    width: 175px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+.first-card-heading {
+    color: #ffffff;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-family: "Roboto";
+}
+
+.first-card-para {
+    color: #ffffff;
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.first-card-sub-para {
+    color: #ffffff;
+    font-size: 15px;
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.next-card {
+    background-color: #ffffff;
+    margin: 15px;
+}
+
+.next-card-heading {
+    color: #151765;
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.next-card-para {
+    color: #5a7184;
+    font-size: 18px;
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.next-card-time {
+    color: #151765;
+    font-size: 12px;
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 15px;
+    color: #ffffff;
+    height: 25px;
+    width: 72px;
+    font-size: 10px;
+    font-family: "Roboto";
+}
+
+.h-right {
+    text-align: right;
+}
